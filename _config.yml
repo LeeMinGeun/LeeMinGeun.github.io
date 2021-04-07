@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "이민근"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/dog.png"
   bio              : "항상 열정적인 남자"
   location         : "대한민국, 화성"
   email            : "mingeun9805@gmail.com"
