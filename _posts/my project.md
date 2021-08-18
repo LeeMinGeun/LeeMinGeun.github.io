@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "My project"
+title: "나의 프로젝트"
 ---
 
 
